@@ -5,4 +5,4 @@ This project classifies the radio signals from Outer Space. The Convolution Neur
 #An important element in many WIRELESS COMMUNICATION activities is distinguishing between different radio signals.
 # In this project Dataset istaken dataset from https://seti.org/ (Search for Extraterrestrial Intelligence (SETI))
 
-Here we have taken 4 class labels for Radio signals that are 
+Here we have taken 4 class labels for Radio signals that are Squiggle, Narrowband, Noise, Narrowbanded
